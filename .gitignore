@@ -1,0 +1,22 @@
+# === Python Bytecode & Cache ===
+__pycache__/
+*.py[cod]
+
+# === Virtual Environment ===
+.venv/
+
+# === Secret & Env Files ===
+.env
+client-secret.json
+token files/
+
+# === Package Management ===
+pip/
+*.lock
+*.toml
+
+# === Editor / System Artifacts ===
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
