@@ -20,3 +20,6 @@ pip/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Ignore Attached_files directory
+Attached_files/
